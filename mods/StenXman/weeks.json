@@ -1,0 +1,98 @@
+{
+	"weeks": [
+		{
+			"difficulties": [
+				{
+					"name": "Easy",
+					"sprite": "Friday Night Funkin':storymenu/easy"
+				},
+				{
+					"name": "Normal",
+					"sprite": "Friday Night Funkin':storymenu/normal"
+				},
+				{
+					"name": "Hard",
+					"sprite": "Friday Night Funkin':storymenu/hard"
+				}
+			],
+			"songs": [
+				"stenxman",
+				"really"
+			],
+			"mod": "StenXman",
+			"buttonSprite": "/images/WeekXman.png",
+			"color": "#5160F9",
+			"name": "",
+			"dad": {
+				"animation": "xmanweeknew a",
+				"file": "/images/xmanweeknew",
+				"scale": 0.95,
+				"flipX": false,
+				"offset": [
+					245,
+					100
+				]
+			}
+		},
+		{
+			"difficulties": [
+				{
+					"name": "Easy",
+					"sprite": "Friday Night Funkin':storymenu/easy"
+				},
+				{
+					"name": "Normal",
+					"sprite": "Friday Night Funkin':storymenu/normal"
+				},
+				{
+					"name": "Hard",
+					"sprite": "Friday Night Funkin':storymenu/hard"
+				}
+			],
+			"songs": [
+	                               "lord"
+			],
+			"mod": "StenXman",
+			"buttonSprite": "/images/WeekXman.png",
+			"color": "#5160F9",
+			"name": "",
+			"dad": {
+				"animation": "xmanlordweek idle",
+				"file": "/images/xmanlordweek",
+				"scale": 0.95,
+				"flipX": false,
+				"offset": [
+					245,
+					100
+				]
+			}
+		},
+		{
+			"difficulties": [
+				{
+					"name": "X",
+					"sprite": "StenXman:storymenu/x"
+				}
+			],
+			"songs": [
+				"xmans-dog",
+				"why",
+                                       "ugh"
+			],
+			"mod": "StenXman",
+			"buttonSprite": "/images/WeekXman.png",
+			"color": "#5160F9",
+			"name": "",
+			"dad": {
+				"animation": "xmanbonus bonus",
+				"file": "/images/xmanbonus",
+				"scale": 0.95,
+				"flipX": false,
+				"offset": [
+					245,
+					100
+				]
+			}
+		}
+	]
+}

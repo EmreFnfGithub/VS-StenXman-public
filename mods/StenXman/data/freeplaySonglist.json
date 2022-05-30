@@ -1,0 +1,64 @@
+{
+	"songs": [
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "xman-3d",
+			"bpm": 150,
+			"name": "stenxman",
+			"color": "#FB544B"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "xman-electric",
+			"bpm": 150,
+			"name": "really",
+			"color": "#FA47C0"
+		},
+		{
+			"displayName": null,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"char": "dog",
+			"color": "#7E2D02",
+			"name": "xmans-dog",
+			"bpm": 150
+		},
+		{
+			"displayName": "Hmm beta (ugh)",
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"char": "xman-3d",
+			"color": "#FAFAFA",
+			"name": "ugh",
+			"bpm": 150
+		},
+		{
+			"displayName": null,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"char": "dog-angry",
+			"color": "#6B01BC",
+			"name": "why",
+			"bpm": 150
+		}
+	]
+}

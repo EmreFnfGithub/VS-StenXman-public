@@ -1,0 +1,30 @@
+{
+	"titleBarName": "Funked' - StenXman ",
+	"intro": {
+		"authors": [
+			"emrefnf"
+		],
+		"gameName": [
+			"Friday Night Funkin'",
+			"VS",
+			"StenXman"
+		],
+		"newgrounds": "newgrounds",
+		"bpm": 102,
+		"assoc": [
+			"In association",
+			"with"
+		],
+		"present": "present"
+	},
+	"skinnableBFs": [],
+	"skinnableGFs": [],
+	"GFskins": [],
+	"keyNumbers": [
+		4
+	],
+	"BFskins": [],
+	"name": "StenXman",
+	"locked": false,
+	"description": "(No description)"
+}

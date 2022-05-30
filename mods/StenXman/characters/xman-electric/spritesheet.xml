@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="StenXmanElectric.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="XMANELECTRIC Sing Note DOWN0000" x="0" y="0" width="403" height="532"/>
+	<SubTexture name="XMANELECTRIC Sing Note LEFT0000" x="403" y="0" width="403" height="532"/>
+	<SubTexture name="XMANELECTRIC Sing Note RIGHT0000" x="806" y="0" width="403" height="532"/>
+	<SubTexture name="XMANELECTRIC Sing Note UP0000" x="1209" y="0" width="403" height="532"/>
+	<SubTexture name="XMANELECTRIC idle dance0000" x="1612" y="0" width="403" height="532"/>
+	<SubTexture name="XMANELECTRIC idle dance0001" x="0" y="532" width="403" height="532"/>
+	<SubTexture name="XMANELECTRIC idle dance0002" x="403" y="532" width="403" height="532"/>
+	<SubTexture name="XMANELECTRIC idle dance0003" x="806" y="532" width="403" height="532"/>
+	<SubTexture name="XMANELECTRIC idle dance0004" x="1209" y="532" width="403" height="532"/>
+</TextureAtlas>
